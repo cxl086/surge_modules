@@ -1,1 +1,5 @@
+#!name=Custom DNS Module
+#!desc=Override DNS settings with nextDns
 
+[General]
+encrypted-dns-server = quic://ddc495.dns.nextdns.io
