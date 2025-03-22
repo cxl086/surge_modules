@@ -2,4 +2,4 @@
 #!desc=Override DNS settings with nextDns
 
 [General]
-encrypted-dns-server = quic://ddc495.dns.nextdns.io
+encrypted-dns-server = quic://3a78dd.dns.nextdns.io
