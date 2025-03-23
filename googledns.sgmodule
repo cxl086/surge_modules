@@ -2,4 +2,4 @@
 #!desc=Override DNS settings with Google public dns
 
 [General]
-encrypted-dns-server = https://8.8.8.8/dns-query
+encrypted-dns-server = https://dns.google/dns-query
