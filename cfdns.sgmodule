@@ -1,0 +1,5 @@
+#!name=Cloudflare dns
+#!desc=Override DNS settings with Cloudflare dns
+
+[General]
+encrypted-dns-server = https://cloudflare-dns.com/dns-query
