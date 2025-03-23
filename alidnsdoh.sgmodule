@@ -1,5 +1,5 @@
-#!name=Custom DNS Module
-#!desc=Override DNS settings with DoH 223.5.5.5
+#!name=ali DNS Module
+#!desc=Override DNS settings with ali DNS DoH
 
 [General]
 dns-server = 223.5.5.5
