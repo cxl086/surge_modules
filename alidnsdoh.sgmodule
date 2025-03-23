@@ -1,4 +1,4 @@
-#!name=ali DNS Module
+#!name=Ali DNS Module
 #!desc=Override DNS settings with ali DNS DoH
 
 [General]
