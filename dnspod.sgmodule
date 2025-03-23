@@ -1,0 +1,6 @@
+#!name=Dnspod Module
+#!desc=Override DNS settings with Dnspod
+
+[General]
+dns-server = 119.29.29.29
+encrypted-dns-server = https://doh.pub/dns-query
