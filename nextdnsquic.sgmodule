@@ -3,4 +3,4 @@
 
 [General]
 dns-server = 45.90.28.65,45.90.30.65
-encrypted-dns-server = quic://3a78dd.dns.nextdns.io
+encrypted-dns-server = quic://dns.nextdns.io
